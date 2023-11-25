@@ -1,4 +1,4 @@
 # Amazon
-This is Amazon-Clone project done with HTML and CSS
+This is Amazon-Clone project designed using HTML and CSS
 <br />
 Author - Akshita Sharma
